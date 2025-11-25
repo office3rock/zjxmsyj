@@ -1,15 +1,15 @@
 {
-  "baseUrl": "reshet.jetdomains.co.il/popis2013",
-  "protocol": "https",
-  "hostingWPCOM": false,
-  "useACF": true,
-  "includedRoutes": [
-    "**/categories",
-    "**/posts",
-    "**/pages",
-    "**/media",
-    "**/tags",
-    "**/taxonomies",
-    "**/users"
-  ]
+    "baseUrl":  "reshet.jetdomains.co.il/zjxmsyj",
+    "protocol":  "https",
+    "hostingWPCOM":  false,
+    "useACF":  true,
+    "includedRoutes":  [
+                           "**/categories",
+                           "**/posts",
+                           "**/pages",
+                           "**/media",
+                           "**/tags",
+                           "**/taxonomies",
+                           "**/users"
+                       ]
 }
